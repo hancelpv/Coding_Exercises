@@ -1,5 +1,5 @@
 
-def main()
+def main():
     series = [0, 1]
 
     # Taking User input 
