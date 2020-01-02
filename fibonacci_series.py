@@ -6,7 +6,6 @@ def main():
     num_points = int(input("Enter num of terms required in Fibonacci Sequence :"))
 
     for i in range(2, num_points+1):
-    #     print(i)
 
         temp = series[i-1] + series[i-2]
 
